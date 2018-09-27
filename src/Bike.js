@@ -1,5 +1,4 @@
-class Car {
-    
+class Bike {
     constructor() {
         this._brands = [];
     }
@@ -13,4 +12,4 @@ class Car {
     }
 }
 
-export default Car;
+export default Bike;
