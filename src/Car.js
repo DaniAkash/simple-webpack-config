@@ -5,6 +5,7 @@ class Car {
     }
 
     get brands() {
+        debugger;
         return this._brands;
     }
 
